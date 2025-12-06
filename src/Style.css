@@ -1,0 +1,27 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.myStyle {
+  color: teal;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.myContent {
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.myButton {
+  background-color: rgb(127, 187, 255);
+  border: none;
+  border-radius: 15%;
+  padding: 5px;
+}
+
+.me-1 {
+  margin-right: 5px;
+}
